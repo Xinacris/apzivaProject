@@ -1,0 +1,40 @@
+.navbar-brand {
+    margin-left: 17.2%;
+    margin-top: 0.5%;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+
+.signin {
+    color: #be313c !important;
+}
+
+.nav-link {
+    color: #000000;
+}
+
+.nav-item :hover {
+    color: #7d1f27;
+}
+
+.testimontials {
+    margin-left: 1%;
+    margin-top: 1.5%;
+}
+
+.cols {
+    width: 33%;
+    height: auto;
+}
+
+.middleText {
+    text-align: center;
+}
+.imgPerson {
+    border-radius: 50%;
+    width: 70%;
+    height: auto;
+}
+.names{
+    font-weight: bolder;
+}
